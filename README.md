@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💼&nbsp;&nbsp;&nbsp;MS Robotics student at Northwestern University</a>
 
-🌱&nbsp;&nbsp;&nbsp;Interested in **Motion Planning**, **Control Theory**, **Machine Learning** in **Robotics**
+🌱&nbsp;&nbsp;&nbsp;Interested in **Motion Planning**, **Control Theory**, and **Machine Learning** in **Robotics**
 
 📫&nbsp;&nbsp;&nbsp;Email me at tianyuli2021@u.northwestern.edu
 
