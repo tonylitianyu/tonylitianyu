@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-💼&nbsp;&nbsp;&nbsp;Ph.D. Student working on Robotics at GRASP Lab , University of Pennsylvania</a>
+💼&nbsp;&nbsp;&nbsp;Incoming Ph.D. Student working on Robotics at GRASP Lab , University of Pennsylvania</a>
 
 🌱&nbsp;&nbsp;&nbsp;Interested in **Motion Planning**, **Control Theory**, and **Machine Learning** in **Robotics**
 
