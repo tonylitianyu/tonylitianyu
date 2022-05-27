@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+🌱&nbsp;&nbsp;&nbsp;Currently working as an intern at <a href="https://www.openrobotics.org/" target="_blank">Open Robotics</a>
 
 💼&nbsp;&nbsp;&nbsp;Incoming Ph.D. Student working on Robotics at GRASP Lab , University of Pennsylvania</a>
 
